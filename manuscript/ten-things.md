@@ -1,4 +1,4 @@
-## The First Ten Things You Should Know
+# The First Ten Things You Should Know
 
 If this is your first personal experience with cancer, you can't possibly know
 what you are even preparing for. After years of various brutal treatments, these
@@ -12,7 +12,7 @@ are the top ten things I was not prepared for (or even warned about).
 - You need family.
 - You will learn more about medicine than you likely wanted to.
 
-### Personality
+## Personality
 
 I believe most patients can be roughly divided into two categories.
 
@@ -21,7 +21,8 @@ I believe most patients can be roughly divided into two categories.
 
 There is an implication that the first group is less trusting of their
 environment, and second-guess frequently. I am one of these people. The more
-trusting type "let the doctors do their jobs," and generally worry less.
+trusting second group "lets the doctors do their jobs," and generally worry
+less.
 
 While I personally triple-guessed every little detail I could, at times I was
 unable to and I experiened both sides of this behavior. I propose that neither
