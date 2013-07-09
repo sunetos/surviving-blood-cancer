@@ -106,4 +106,32 @@ aspirin's](http://www.ncbi.nlm.nih.gov/pubmed/18094224).
 [^nsaids](http://en.wikipedia.org/wiki/Non-steroidal_anti-inflammatory_drug)
 [^tylenol](http://en.wikipedia.org/wiki/Paracetamol)
 
-### Opiates
+### Opiates (narcotics)
+
+Cancer treatment is rough, and you will almost certainly end up needing pain
+relief. Since tylenol and NSAIDs are disqualified, you will end up getting to
+know your opiate friends. If you are experienced with chronic pain, this section
+may not help you much; you can strategize with your doctor. If you are
+inexperienced with opiates (if you're not sure, this is you), knowing what to
+expect can make your life far better.
+
+Good doctors will know how essential pain management is for cancer patients,
+and they should help you get through without major withdrawal or addiction
+concerns. If your doctor is acting flaky, suspicious, or in any way unsupportive
+about your pain issues in the beginning (before you are on the meds), I
+recommend talking to the other doctors there and consider switching. You do not
+want your doctor to ever feel like your enemy.
+
+I was unprepared, and I did not realize how drastically it was affecting me. Had
+my parents not intervened, I was about to click a few buttons and blow my
+life-savings on the stock market (it seemed like such a good idea at the time).
+
+I like using the word "narcotic" for this category of meds, although "opiate" is
+more accurate. Technically, [narcotic originally meant mind-altering and
+sleep-inducing, and in the US just means strictly
+regulated](http://en.wikipedia.org/wiki/Narcotic). Since this is not a medical
+journal, I will gladly say narcotic when I mean opiate.
+
+#### PCAs
+
+#### Oral vs. IV
