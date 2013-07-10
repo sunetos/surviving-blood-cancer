@@ -1,14 +1,14 @@
 # Pain meds and narcotics
 
-If your treatment includes surgery, extended [neutropenia], or a bone marrow
-transplant, you will end up on high doses of narcotics at some point. I was not
-prepared for how it affected me, and I think patients would benefit from
-understanding narcotics better before receiving them.
+If your treatment includes surgery, extended [neutropenia](#blood-counts), or a
+bone marrow transplant, you will end up on high doses of narcotics at some
+point. I was not prepared for how it affected me, and I think patients would
+benefit from understanding narcotics better before receiving them.
 
 ## Why narcotics?
 
 There are only a few general types of painkillers, technically called
-analgesics[^analgesics]:
+[analgesics][analgesics]:
 
 - Tylenol
 - NSAIDs
@@ -27,7 +27,7 @@ Tylenol gets its own category for two reasons: modern medicine doesn't actually
 understand how it works, and it is a fever reducer.
 
 There are two medical names for tylenol: paracetamol and
-acetaminophen[^tylenol]. The only thing you may care about as a patient is that
+[acetaminophen][tylenol]. The only thing you may care about as a patient is that
 in the US, it's nearly always called acetaminophen, and in Europe, it's usually
 called paracetamol. For the average American, I'm just calling it "tylenol."
 
@@ -49,7 +49,7 @@ signs of a fever. Your nurses will be all over it, but you will have home
 recovery too. Unfortunately, if you have taken tylenol in the last few hours
 (4-6 hours, to be specific), your fever could be "masked" by the tylenol. This
 is why you will rarely receive tylenol during your treatment, except maybe
-before blood [transfusions].
+before [blood transfusions](#transfusions).
 
 #### Your liver
 
@@ -73,7 +73,7 @@ unneccessary work and just take two benadryl.
 
 ### NSAIDs
 
-NSAIDs[^nsaids], or non-steroidal anti-inflammatory drugs, represent nearly all
+[NSAIDs][nsaids], or non-steroidal anti-inflammatory drugs, represent nearly all
 of the over-the-counter pain meds that are not tylenol. Aspirin, ibuprofen, and
 naproxen (Aleve) are the most common by far. Ibuprofen is popular with dentists
 partially because it [reduces inflammation in the gums faster than
@@ -100,11 +100,11 @@ and been replaced in about a week. [Ibuprofen's effects are
 temporary](https://www.ncbi.nlm.nih.gov/pubmed/15809457), and your blood should
 clot effectively again in about 24 hours. For heart patients, note that
 [ibuprofen's effects actually interfere with
-aspirin's](http://www.ncbi.nlm.nih.gov/pubmed/18094224).
+aspirin's](https://www.ncbi.nlm.nih.gov/pubmed/18094224).
 
-[^analgesics](http://en.wikipedia.org/wiki/Analgesic)
-[^nsaids](http://en.wikipedia.org/wiki/Non-steroidal_anti-inflammatory_drug)
-[^tylenol](http://en.wikipedia.org/wiki/Paracetamol)
+[analgesics]: http://en.wikipedia.org/wiki/Analgesic
+[nsaids]: http://en.wikipedia.org/wiki/Non-steroidal_anti-inflammatory_drug
+[tylenol]: http://en.wikipedia.org/wiki/Paracetamol
 
 ### Opioids (narcotics)
 
