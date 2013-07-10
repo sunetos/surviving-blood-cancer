@@ -1,14 +1,12 @@
 frontmatter.md
-
-preface.md
+  preface.md
 
 mainmatter.md
-
-orientation.md
-ten-things.md
+  orientation.md
+    first-day.md
+    ten-things.md
+  topics.md
+    narcotics.md
 
 backmatter.md
-
-narcotics.md
-
-appendix.md
+  appendix.md
