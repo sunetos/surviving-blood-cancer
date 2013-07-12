@@ -25,6 +25,7 @@ are the top ten things I was not prepared for (or even warned about).
 
 - You are not ready, and you're ok.
 - You will lose your dignity.
+- You will spend a great deal of time thinking about poop.
 - You will not recover 100%.
 - You will receive many, many blood transfusions.
 - You will have encounters with anxiety, panic, depression, and more.

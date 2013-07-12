@@ -6,7 +6,9 @@ mainmatter.md
     first-day.md
     ten-things.md
   topics.md
+    digestion.md
     narcotics.md
+    bmt.md
 
 backmatter.md
   appendix.md
