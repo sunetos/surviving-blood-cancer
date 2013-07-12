@@ -1,4 +1,4 @@
-# Pain meds and narcotics
+# Pain meds and narcotics {#narcotics}
 
 If your treatment includes surgery, extended [neutropenia](#blood-counts), or a
 bone marrow transplant, you will end up on high doses of narcotics at some
@@ -40,8 +40,8 @@ effects:
 #### Your fever
 
 As a blood cancer patient, you will be treated with chemo and/or radiation at
-some point that will lower your [blood counts]. When your white blood counts are
-low [neutropenia], you are at high risk for infections, and a fever is one of
+some point that will lower your [blood counts](#blood-counts). When your white
+blood counts are low, you are at high risk for infections, and a fever is one of
 the first signs.
 
 Whenever you feel off in any way, you should check your temperature first for

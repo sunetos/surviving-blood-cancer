@@ -7,6 +7,7 @@ mainmatter.md
     ten-things.md
   topics.md
     digestion.md
+    blood-counts.md
     narcotics.md
     bmt.md
 
